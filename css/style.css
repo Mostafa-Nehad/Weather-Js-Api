@@ -107,6 +107,10 @@ input[type="submit"]{
   padding: 10px 20px;
   border-radius: 30px;
   color: white;
+  transition: all 0.3s ease;
+}
+input[type="submit"]:hover{
+  background: #005d82;
 }
 
 .wheather-ditails{
